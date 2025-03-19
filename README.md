@@ -5,4 +5,4 @@
 
 <img src="assets/ui.png" height="300px" width="500px"/>
 <img src="assets/ui2.png" height="300px" width="500px"/>
-<video src="assets/" controls></video>
+![Watch demo.mp4](https://github.com/user-attachments/assets/2ac81176-ea12-41a7-b7d8-129f005a9e19).
