@@ -1,0 +1,47 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#upperCnt{
+    height: 210px;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+#upperCnt img{
+    height: 120px;
+    width: 180px;
+}
+#upperCnt input{
+    height: 35px;
+    width: 350px;
+    border: 1px solid #efefef;
+    border-radius:5px ;
+    outline: none;
+    padding-left: 15px;
+    box-shadow: 2px 3px 5px #999;
+}
+input::placeholder{
+    color: #2e1f1f;
+    font-weight: 300;
+}
+
+.card{
+    width: 90%;
+    margin:20px auto;
+}
+.link{
+    font-size: 1rem;
+    font-weight: 660;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 1rem 0;
+}
+.link2{
+    font-size: 0.7rem;
+    text-decoration: none;
+    color: rgb(54, 54, 247);
+}
