@@ -5,6 +5,9 @@
 
 <img src="assets/ui.png" height="300px" width="500px"/>
 <img src="assets/ui2.png" height="300px" width="500px"/>
+
+https://github.com/user-attachments/assets/3ebaaa68-280a-4c5b-bb9a-dbcf2fc06500
+
 # 📁 Folder Structure
 - 🗃️ assets
   - ui.png
